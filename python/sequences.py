@@ -6,7 +6,7 @@ print(name[2])
 print(name[3])
 print(name[4])
 
-names = ["Harry", "Ron", "Hermione"]
+names = ["Harry", "Ron", "Hermione", "Carlos", "Juan"]
 
 print(names)
 
